@@ -25,5 +25,4 @@
 <p float="left">
   <img src="https://github.com/Raju-Munagala/skin/blob/main/208T1A05F9.jpg" width="33%" />
   <img src="https://github.com/Raju-Munagala/skin/blob/main/208T1A05F9.jpg" width="33%" />
-  <img src="https://github.com/Raju-Munagala/skin/blob/main/208T1A05F9.jpg" width="33%" />
 </p>
