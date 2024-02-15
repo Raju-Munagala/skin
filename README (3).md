@@ -24,5 +24,11 @@
 
 <p float="left">
   <img src="https://github.com/Raju-Munagala/skin/blob/main/208T1A05F9.jpg" width="33%" />
-  <img src="https://github.com/Raju-Munagala/skin/blob/main/208T1A05F9.jpg" width="33%" />
+  <img src="https://github.com/Raju-Munagala/skin/blob/main/d4104c73-d7b1-455d-922d-56c2e16df41c.png" width="33%" />
+</p>
+
+
+<p float="left">
+  <img src="https://github.com/Raju-Munagala/skin/blob/main/manu_1.jpg" width="33%" />
+  <img src="https://github.com/Raju-Munagala/skin/blob/main/5ab9ff17-68d7-4038-9ec4-f550b59b18b1.png" width="33%" />
 </p>
